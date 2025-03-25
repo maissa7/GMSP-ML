@@ -699,7 +699,7 @@ function solve_model(APPROXIMATION_METHOD::String, SEASON::String, NB_SCENARIOS:
             #             SAVING THE RESULTS             #
             ##############################################
 
-    open(string("resultat/", SEASON, "/", NB_SCENARIOS, "_scenarios/", STOCHASTICITY, "_stochasticity/", APPROXIMATION_METHOD,"_5T_C2.json"), "w") do all_results_file
+    open(string("resultat/", SEASON, "/", NB_SCENARIOS, "_scenarios/", STOCHASTICITY, "_stochasticity/", APPROXIMATION_METHOD,"_5T.json"), "w") do all_results_file
         JSON.write(all_results_file, JSON.json(Dict{String, Any}("scenarios" => NB_SCENARIOS,
                                                                  "status" => status,
                                                                  "time" => Dates.value(elapsed_time),
