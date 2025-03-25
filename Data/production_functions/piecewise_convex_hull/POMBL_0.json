@@ -1,0 +1,29 @@
+{
+    "lower_number": 1,
+    "lower": {
+        "Beta_0": [
+            0.0
+        ],
+        "Beta_s": [
+            0.0
+        ],
+        "Beta_u": [
+            0.0
+        ]
+    },
+    "lower_maximas": [
+        0.0
+    ],
+    "upper_number": 1,
+    "upper": {
+        "Beta_0": [
+            0.0
+        ],
+        "Beta_s": [
+            0.0
+        ],
+        "Beta_u": [
+            0.0
+        ]
+    }
+}

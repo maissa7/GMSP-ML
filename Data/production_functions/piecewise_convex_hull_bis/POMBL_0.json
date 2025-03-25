@@ -1,0 +1,44 @@
+{
+    "lower_number": 1,
+    "lower": {
+        "Beta_0": [
+            0.0
+        ],
+        "Beta_s": [
+            0.0
+        ],
+        "Beta_u": [
+            0.0
+        ]
+    },
+    "upper_number": 1,
+    "upper": {
+        "Beta_0": [
+            0.0
+        ],
+        "Beta_s": [
+            0.0
+        ],
+        "Beta_u": [
+            0.0
+        ]
+    },
+    "U_max_i_k_h": [
+        0.0
+    ],
+    "U_min_i_k_h": [
+        0.0
+    ],
+    "P_min_i_k_h": [
+        0.0
+    ],
+    "P_max_i_k_h": [
+        0.0
+    ],
+    "Upper_Compensation_i_k_h": [
+        0.0
+    ],
+    "Lower_Compensation_i_k_h": [
+        0.0
+    ]
+}
